@@ -4,5 +4,7 @@
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "floppy-knight",
   "compatibility_date": "2026-10-01",
-  "pages_build_output_dir": "./public"
+  "assets": {
+    "directory": "./public"
+  }
 }
